@@ -15,9 +15,9 @@
 - Based out of Jordan.
 
 ### what I am up to
-- 🔭 Currently iOS Software Engineer, BeMotion
-- 💬 Feel free to ask me about topics such as UIKit, SwiftUI, UX & UI, Golang, blockchain, Art, Classical Music, and Marathons.
-- 🌱 I’m currently working on [CryptoWav](https://github.com/aslamdodeen/CryptoWave)
+- 🔭 Currently iOS Software Engineer and Producr design, freelancer
+- 💬 Feel free to ask me about UIKit, SwiftUI, UX & UI, Golang, blockchain, and Art.
+
 
 <h3 align="left">Languages and Tools:</h3>
 
