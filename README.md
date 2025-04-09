@@ -15,7 +15,7 @@
 - Based out of Jordan.
 
 ### what I am up to
-- 🔭 Currently iOS Software Engineer and Producr design, freelancer
+- 🔭 Currently an iOS Software Engineer and Product Designer, freelancer
 - 💬 Feel free to ask me about UIKit, SwiftUI, UX & UI, Golang, blockchain, and Art.
 
 
